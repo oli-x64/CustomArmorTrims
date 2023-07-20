@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "mov.oli.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "RabbitLuckMixin",
+    "SmithingTrimRecipeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

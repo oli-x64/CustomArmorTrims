@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GGG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "tag": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "customarmortrims:golden_apple_leggings_trim"
+  }
+}

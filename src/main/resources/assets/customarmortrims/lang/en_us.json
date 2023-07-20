@@ -1,0 +1,13 @@
+{
+  "trim_pattern.customarmortrims.iron_golem": "Iron Golem Armor Trim",
+  "trim_pattern.customarmortrims.rabbit": "Rabbit Armor Trim",
+  "trim_pattern.customarmortrims.golden_apple": "Golden Apple Armor Trim",
+  "trim_pattern.customarmortrims.wither_skeleton": "Wither Skeleton Armor Trim",
+  "trim_pattern.customarmortrims.ultimate_eye": "Ultimate Eye Armor Trim",
+  "itemGroup.customarmortrims.trims": "Custom Armor Trims",
+  "item.customarmortrims.iron_golem_helmet_trim": "Iron Golem Helmet Trim",
+  "item.customarmortrims.rabbit_boots_trim": "Rabbit Boots Trim",
+  "item.customarmortrims.golden_apple_leggings_trim": "Golden Apple Leggings Trim",
+  "item.customarmortrims.wither_skeleton_chestplate_trim": "Wither Skeleton Chestplate Trim",
+  "item.customarmortrims.ultimate_eye_boots_trim": "Ultimate Eye Boots Trim"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "customarmortrims:golden_apple",
+  "description": {
+    "translate": "trim_pattern.customarmortrims.golden_apple"
+  },
+  "template_item": "customarmortrims:golden_apple_leggings_trim"
+}

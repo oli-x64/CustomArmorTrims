@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EEE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "tag": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "customarmortrims:ultimate_eye_boots_trim"
+  }
+}

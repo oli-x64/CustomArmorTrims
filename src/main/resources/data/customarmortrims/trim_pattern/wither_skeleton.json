@@ -1,0 +1,7 @@
+{
+  "asset_id": "customarmortrims:wither_skeleton",
+  "description": {
+    "translate": "trim_pattern.customarmortrims.wither_skeleton"
+  },
+  "template_item": "customarmortrims:wither_skeleton_chestplate_trim"
+}

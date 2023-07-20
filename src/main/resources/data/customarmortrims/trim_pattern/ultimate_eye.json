@@ -1,0 +1,7 @@
+{
+  "asset_id": "customarmortrims:ultimate_eye",
+  "description": {
+    "translate": "trim_pattern.customarmortrims.ultimate_eye"
+  },
+  "template_item": "customarmortrims:ultimate_eye_boots_trim"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "customarmortrims:iron_golem",
+  "description": {
+    "translate": "trim_pattern.customarmortrims.iron_golem"
+  },
+  "template_item": "customarmortrims:iron_golem_helmet_trim"
+}

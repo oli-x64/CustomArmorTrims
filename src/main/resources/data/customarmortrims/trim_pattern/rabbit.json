@@ -1,0 +1,7 @@
+{
+  "asset_id": "customarmortrims:rabbit",
+  "description": {
+    "translate": "trim_pattern.customarmortrims.rabbit"
+  },
+  "template_item": "customarmortrims:rabbit_boots_trim"
+}
