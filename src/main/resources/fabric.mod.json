@@ -17,6 +17,7 @@
           "mov.oli.CustomArmorTrims"
 		],
 		"client": [
+			"mov.oli.CustomArmorTrimsClient"
 		]
 	},
 	"mixins": [
